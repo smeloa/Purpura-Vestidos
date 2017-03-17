@@ -1715,7 +1715,7 @@ a.cart-account i {
     display: inline-block;
 }
 .product-heading h2 {
-    color: #1c1c1c;
+    color: #933EC4;
     font-family: "Roboto", sans-serif;
     font-size: 18px;
     letter-spacing: 2px;
@@ -2034,8 +2034,8 @@ span.star-change i {
     padding-right: 10px;
 }
 .footer-icon li a {
-    color: #333333;
-    font-size: 16px;
+    color: #933EC4;
+    font-size: 25px;
 }
 .footer-icon li a:hover {
     color: #898989;
@@ -3619,8 +3619,9 @@ h4.top-news {
     padding-right: 20px;
 }
 .list-inline > li > a > i {
-    color: #3f3f3f;
+    color: #933EC4;
     padding: 5px;
+    font-size: 20px;
 }
 .list-inline > li > a > i:hover {
     color: #000;
@@ -3655,7 +3656,7 @@ h1.off {
     margin: 26px 0 47px;
 }
 .history > h4 {
-    color: #3f3f3f;
+    color: #933EC4;
     font-size: 18px;
     font-weight: bold;
     letter-spacing: 1px;
@@ -3698,7 +3699,7 @@ h1.off {
 /*----------------------------------------*/
 
 .contact-heading > h5 {
-    color: #4d4d4d;
+    color: #933EC4;
     font-size: 16px;
     font-weight: bold;
     letter-spacing: 1px;
@@ -3757,7 +3758,7 @@ h1.off {
 /* emailing*/
 
 .email-heading > h5 {
-    color: #4d4d4d;
+    color: #933EC4;
     font-family: "Roboto", sans-serif;
     font-size: 16px;
     font-weight: bold;
